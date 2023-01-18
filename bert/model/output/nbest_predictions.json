@@ -1,0 +1,96 @@
+{
+    "56ddde6b9a695914005b9628": [
+        {
+            "text": "Sundar Pichai",
+            "probability": 0.9999114444057917,
+            "start_logit": 6.0465006828308105,
+            "end_logit": 4.799442291259766
+        },
+        {
+            "text": "Larry Page",
+            "probability": 8.855559420835695e-05,
+            "start_logit": 0.819960355758667,
+            "end_logit": 0.6941911578178406
+        }
+    ],
+    "56ddde6b9a695914005b9629": [
+        {
+            "text": "1998",
+            "probability": 0.9999973196542109,
+            "start_logit": 7.958688735961914,
+            "end_logit": 7.799078464508057
+        },
+        {
+            "text": "19 A\u011fustos 2004",
+            "probability": 1.8827682526338098e-06,
+            "start_logit": 1.7067815065383911,
+            "end_logit": 0.8682209849357605
+        },
+        {
+            "text": "19 A\u011fustos 2004'te",
+            "probability": 7.975775364565985e-07,
+            "start_logit": 1.7067815065383911,
+            "end_logit": 0.009301591664552689
+        }
+    ],
+    "56ddde6b9a695914005b962a": [
+        {
+            "text": "Larry Page ve Sergey Brin",
+            "probability": 0.9882885992717971,
+            "start_logit": 8.052391052246094,
+            "end_logit": 7.375077247619629
+        },
+        {
+            "text": "Larry Page",
+            "probability": 0.011580736713814328,
+            "start_logit": 8.052391052246094,
+            "end_logit": 2.92844557762146
+        },
+        {
+            "text": "Sergey Brin",
+            "probability": 0.00013066401438856196,
+            "start_logit": -0.8787097334861755,
+            "end_logit": 7.375077247619629
+        }
+    ],
+    "5ad39d53604f3c001a3fe8d3": [
+        {
+            "text": "Mountain View",
+            "probability": 0.9982469939505185,
+            "start_logit": 10.022001266479492,
+            "end_logit": 9.988664627075195
+        },
+        {
+            "text": "California'daki Mountain View",
+            "probability": 0.0011267866009489474,
+            "start_logit": 3.235370397567749,
+            "end_logit": 9.988664627075195
+        },
+        {
+            "text": "Mountain View'daki",
+            "probability": 0.0006262194485325048,
+            "start_logit": 10.022001266479492,
+            "end_logit": 2.614609479904175
+        }
+    ],
+    "5ad39d53604f3c001a3fe8d4": [
+        {
+            "text": "19 A\u011fustos 2004",
+            "probability": 0.9989258430701602,
+            "start_logit": 10.491559982299805,
+            "end_logit": 9.961536407470703
+        },
+        {
+            "text": "19 A\u011fustos 2004'te",
+            "probability": 0.0009526710988986535,
+            "start_logit": 10.491559982299805,
+            "end_logit": 3.0063703060150146
+        },
+        {
+            "text": "2004",
+            "probability": 0.00012148583094132158,
+            "start_logit": 1.476921796798706,
+            "end_logit": 9.961536407470703
+        }
+    ]
+}
